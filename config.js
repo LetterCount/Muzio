@@ -1,9 +1,9 @@
 module.exports = {
   TOKEN: "",
-  ownerID: ["1004206704994566164", ""],
+  ownerID: ["1176985904481566824", ""],
   botInvite: "",
   supportServer: "",
-  mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
+  mongodbURL: "mongodb+srv://lettercounted:a@muzio.hq6qxte.mongodb.net/?retryWrites=true&w=majority&appName=Muzio",
   status: 'RTXX GG',
   commandsDir: './commands',
   language: "en",
