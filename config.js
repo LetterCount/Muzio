@@ -4,10 +4,10 @@ module.exports = {
   botInvite: "",
   supportServer: "",
   mongodbURL: "mongodb+srv://lettercounted:a@muzio.hq6qxte.mongodb.net/?retryWrites=true&w=majority&appName=Muzio",
-  status: 'RTXX GG',
+  status: 'LetterCount owns me!',
   commandsDir: './commands',
   language: "en",
-  embedColor: "00fbff",
+  embedColor: "5539cc",
   errorLog: "",
 
 
