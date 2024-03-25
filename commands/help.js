@@ -65,12 +65,12 @@ module.exports = {
 
       const button2 = new ButtonBuilder()
         .setLabel('Discord')
-        .setURL('https://discord.gg/FUEHs7RCqz')
+        .setURL('https://discord.gg/dp746aX3')
         .setStyle(ButtonStyle.Link);
 
       const button3 = new ButtonBuilder()
         .setLabel('Code')
-        .setURL('https://github.com/RTX-GAMINGG/RTX-MUSIC-BOT-v3.6')
+        .setURL('https://github.com/LetterCount/Muzio')
         .setStyle(ButtonStyle.Link);
 
       const row = new ActionRowBuilder()
